@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/FileCompressor.dir/compress.c.o -o FileCompressor

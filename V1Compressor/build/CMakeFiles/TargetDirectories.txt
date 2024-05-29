@@ -1,3 +1,0 @@
-/home/kali/Desktop/V1Compressor/build/CMakeFiles/FileCompressor.dir
-/home/kali/Desktop/V1Compressor/build/CMakeFiles/edit_cache.dir
-/home/kali/Desktop/V1Compressor/build/CMakeFiles/rebuild_cache.dir
