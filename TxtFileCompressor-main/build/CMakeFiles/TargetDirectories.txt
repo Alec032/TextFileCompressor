@@ -1,0 +1,3 @@
+/home/kali/Desktop/TxtFileCompressor-main/build/CMakeFiles/FileCompressor.dir
+/home/kali/Desktop/TxtFileCompressor-main/build/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/TxtFileCompressor-main/build/CMakeFiles/rebuild_cache.dir
